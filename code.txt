@@ -1,4 +1,4 @@
 print("HELLO GIT");
 print("EVERYBODY");
 
-print("LEXA NE GENA")
+print("LEXA GENA")
