@@ -2,3 +2,4 @@ print("HELLO GIT");
 print("EVERYBODY");
 
 print("LEXA NE GAY")
+print("LEXA GENA")
